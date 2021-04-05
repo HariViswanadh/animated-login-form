@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <title>LOGIN FORM</title>
+    <link rel="stylesheet" href="/css/css.css">
+</head>>
+
+<body>
+    <form class="css">
+        <h1 class="text">WE 'L' CUM</h1>
+        <img class="img1" src="/images/screen1.jpg" alt="" width="300px">
+        <img class="img2" src="/images/screen4.jpg" alt="" width="300px">
+        <img class="img3" src="/images/screen3.jpg" alt="" width="300px">
+        <img class="img4" src="/images/screen2.jpg" alt="" width="300px">
+        <img class="img5" src="/images/screen1.jpg" alt="" width="300px">
+        <input class="user" type="text" placeholder="username">
+        <input class="user" type="text" placeholder="password">
+        <input class="button" type="submit" value="sign in">
+        <input class="button1" type="submit" value="sign up">
+    </form>
+</body>
+
+</html>
